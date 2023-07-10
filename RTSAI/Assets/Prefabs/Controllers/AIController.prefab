@@ -1,0 +1,399 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6399179960504004712
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 580627816653263432}
+  - component: {fileID: 7859672622032877473}
+  - component: {fileID: 2827362954750189833}
+  - component: {fileID: 836824399296165894}
+  - component: {fileID: 1270176014}
+  m_Layer: 0
+  m_Name: AIController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &580627816653263432
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6399179960504004712}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7859672622032877473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6399179960504004712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f361e24ae60f5c8438582fd63c5eaeb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _team: 1
+  _startingBuildPoints: 50
+  FactoryPrefabs: []
+--- !u!114 &2827362954750189833
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6399179960504004712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ea3a16d90d00e545b4272ed9d2b67a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _focusOnlyOnMainGoalThreshold: 0.8
+  _captureThresholds:
+    _armyPercentByGoalPercent:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 2.3285735
+        outSlope: 2.3285735
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0.040880505
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 2.3841152
+        outSlope: 2.3841152
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.034591198
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    Thresholds:
+    - Threshold: 0.1
+      MaxSquadNumber: 1
+      MinMaxUnitNumberInSquad: {x: 12, y: 20}
+    - Threshold: 0.25
+      MaxSquadNumber: 3
+      MinMaxUnitNumberInSquad: {x: 8, y: 40}
+    - Threshold: 0.5
+      MaxSquadNumber: 4
+      MinMaxUnitNumberInSquad: {x: 6, y: 50}
+    - Threshold: 1
+      MaxSquadNumber: 4
+      MinMaxUnitNumberInSquad: {x: 8, y: 60}
+  _defendThresholds:
+    _armyPercentByGoalPercent:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 2.6044405
+        outSlope: 2.6044405
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0.045597482
+      - serializedVersion: 3
+        time: 0.40632784
+        value: 0.5978789
+        inSlope: 1.4944133
+        outSlope: 1.4944133
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.11773077
+        outWeight: 0.14719042
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0.24170797
+        outSlope: 0.24170797
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.09748429
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    Thresholds:
+    - Threshold: 0.1
+      MaxSquadNumber: 2
+      MinMaxUnitNumberInSquad: {x: 1, y: 20}
+    - Threshold: 0.25
+      MaxSquadNumber: 3
+      MinMaxUnitNumberInSquad: {x: 1, y: 30}
+    - Threshold: 0.5
+      MaxSquadNumber: 3
+      MinMaxUnitNumberInSquad: {x: 1, y: 40}
+    - Threshold: 1
+      MaxSquadNumber: 3
+      MinMaxUnitNumberInSquad: {x: 1, y: 50}
+  _attackThresholds:
+    _armyPercentByGoalPercent:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0.033930592
+        outSlope: 0.033930592
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.33962262
+        value: 0.64844483
+        inSlope: 1.9920709
+        outSlope: 1.9920709
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.07232702
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0.53235495
+        outSlope: 0.53235495
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    Thresholds:
+    - Threshold: 0.05
+      MaxSquadNumber: 1
+      MinMaxUnitNumberInSquad: {x: 8, y: 28}
+    - Threshold: 0.1
+      MaxSquadNumber: 3
+      MinMaxUnitNumberInSquad: {x: 12, y: 35}
+    - Threshold: 0.2
+      MaxSquadNumber: 5
+      MinMaxUnitNumberInSquad: {x: 14, y: 40}
+    - Threshold: 0.6
+      MaxSquadNumber: 3
+      MinMaxUnitNumberInSquad: {x: 16, y: 60}
+    - Threshold: 1
+      MaxSquadNumber: 10
+      MinMaxUnitNumberInSquad: {x: 20, y: 100}
+  _controller: {fileID: 7859672622032877473}
+  _squadLeaderPrefab: {fileID: 172670343535489154, guid: 959b412b110a3664984801b6e99ce3f9,
+    type: 3}
+--- !u!114 &836824399296165894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6399179960504004712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9282fd274c602ad498cef4f595041432, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _controller: {fileID: 7859672622032877473}
+  _productionPlans:
+  - Plan:
+    - TypeID: 0
+      Count: 3
+    Cost: 0
+  - Plan:
+    - TypeID: 0
+      Count: 3
+    - TypeID: 1
+      Count: 3
+    Cost: 0
+  - Plan:
+    - TypeID: 0
+      Count: 3
+    - TypeID: 1
+      Count: 6
+    - TypeID: 2
+      Count: 2
+    Cost: 0
+  - Plan:
+    - TypeID: 1
+      Count: 12
+    - TypeID: 2
+      Count: 1
+    Cost: 0
+  - Plan:
+    - TypeID: 0
+      Count: 8
+    - TypeID: 1
+      Count: 12
+    - TypeID: 2
+      Count: 3
+    Cost: 0
+  - Plan:
+    - TypeID: 3
+      Count: 6
+    Cost: 0
+  - Plan:
+    - TypeID: 3
+      Count: 6
+    Cost: 0
+  - Plan:
+    - TypeID: 5
+      Count: 6
+    - TypeID: 5
+      Count: 12
+    - TypeID: 2
+      Count: 2
+    Cost: 0
+  - Plan:
+    - TypeID: 5
+      Count: 6
+    - TypeID: 5
+      Count: 12
+    - TypeID: 5
+      Count: 4
+    - TypeID: 2
+      Count: 2
+    Cost: 0
+  - Plan:
+    - TypeID: 0
+      Count: 20
+    - TypeID: 1
+      Count: 20
+    - TypeID: 2
+      Count: 10
+    - TypeID: 5
+      Count: 6
+    Cost: 0
+  - Plan:
+    - TypeID: 5
+      Count: 8
+    Cost: 0
+  - Plan:
+    - TypeID: 3
+      Count: 20
+    - TypeID: 4
+      Count: 40
+    - TypeID: 5
+      Count: 10
+    Cost: 0
+  _unitsAvailable:
+  - {fileID: 1410615566046136651, guid: ddb4bee85d29b9944b760bc5069270bd, type: 3}
+  - {fileID: 1410615566046136651, guid: 8adc43044ad79ce4fb9a348724a0612a, type: 3}
+  - {fileID: 1410615566046136651, guid: f255b559710e61344a4ab728b6ae79b4, type: 3}
+  - {fileID: 1410615566046136651, guid: 4c0e8354616e6ed4381e859c2f13594b, type: 3}
+  - {fileID: 1410615566046136651, guid: 2f9982ad6627aef4da199beb54ead355, type: 3}
+  - {fileID: 1410615566046136651, guid: c3966bb56c90e0f45b912e3f86dd5d9f, type: 3}
+--- !u!114 &1270176014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6399179960504004712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dba67a5aecfd1c4a9a7f38cbe73d0af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _controller: {fileID: 7859672622032877473}
+  _armyLeader: {fileID: 2827362954750189833}
+  _teamLeader: {fileID: 836824399296165894}
+  _produceFactoryChance:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 0.2
+      inSlope: -0.2518554
+      outSlope: -0.2518554
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.05070755
+    - serializedVersion: 3
+      time: 1.9821852
+      value: 0.02160589
+      inSlope: -0.0077452715
+      outSlope: -0.0077452715
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.16634014
+    - serializedVersion: 3
+      time: 5
+      value: 0
+      inSlope: -0.016563373
+      outSlope: -0.016563373
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.14937103
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _produceFactoryChanceFromBuildPoints:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 65
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 20
+      value: 0
+      inSlope: -0
+      outSlope: 0.00066263374
+      tangentMode: 5
+      weightedMode: 0
+      inWeight: 0.23113212
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 30
+      value: 0.2
+      inSlope: 0.0091462275
+      outSlope: 0.0091462275
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.11378198
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _observer: {fileID: 0}
+  _utilitySystemArmy: {fileID: 0}
+  _utilitySystemTeam: {fileID: 0}
+  _armyUpdateFrequency: 1
+  _teamUpdateFrequency: 2

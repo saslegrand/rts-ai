@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70c53fdf09515d64d9c0162b6d69219c, type: 3}
+  m_Name: Light_Heal_Data
+  m_EditorClassIdentifier: 
+  TypeId: 2
+  Caption: Priest
+  Cost: 2
+  BuildDuration: 3
+  Thumbnail: {fileID: 21300000, guid: dd2d0865ec6ddb14fbb01950933c051f, type: 3}
+  MaxHP: 50
+  DPS: 8
+  AttackFrequency: 1.2
+  AttackDistanceMax: 15
+  CaptureDistanceMax: 15
+  CaptureDistanceRange: 30
+  CanRepair: 1
+  RPS: 25
+  RepairFrequency: 3
+  RepairDistanceMax: 15
+  RepairDistanceRange: 25
+  Speed: 9.7
+  AngularSpeed: 300
+  Acceleration: 20
+  IsFlying: 0
+  FormationOrder: 2
+  FormationRadius: 4
+  BulletPrefab: {fileID: 6953520636668906323, guid: 99fb79db4e0a60441b86bfee63b1eddc,
+    type: 3}
+  DeathFXPrefab: {fileID: 1742013225946848, guid: b3d8264aa7d2d824a8a503e45291ddf4,
+    type: 3}
+  Influence: 6
+  InfluenceRadius: 4

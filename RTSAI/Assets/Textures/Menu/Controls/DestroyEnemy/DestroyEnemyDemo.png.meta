@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: 9ccaef70ae38d1044a9db0027df31f4f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3560
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514785dfe1870874e9c86326c4fb81ad
+      internalID: 1901579893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_1
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3560
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3516ae06c6f8c834685e3f70a4aae477
+      internalID: 1089733775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_2
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 3560
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f34fe614984ff949bdf28117a8dff57
+      internalID: -1586207099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_3
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 3560
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c87b745aac94d84c8dac998682d9281
+      internalID: -1657158617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_4
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 3560
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21ba339e8f4d9a4d9551bdbeb179843
+      internalID: 2007927957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_5
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3560
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c9ac0b2de52484897269cca5caa66f
+      internalID: 416267167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_6
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 3560
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6292d9db1188041ad8d20b052bb7bb
+      internalID: 1102206835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3115
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e808cd39b1ae7e4f92219e9cc138fa2
+      internalID: -1786938037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_8
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3115
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e81348de3b348944bc10434d799c6d2
+      internalID: -162314362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_9
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 3115
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b4ad1b1fad96f4789f061815699796
+      internalID: 1316529183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_10
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 3115
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce317b5fc2d4614789ced37792dca35
+      internalID: -1714689332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_11
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 3115
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876340be562ac3241a7bf5f28335f9fb
+      internalID: -1548772064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_12
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3115
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beb3fee40ede1049b1cf8c58863d702
+      internalID: 1039898649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_13
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 3115
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c8e6234de8b1d4fa65e6f16b7ebbe2
+      internalID: -146502743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2670
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c57b192f84f3f6458515d98e7f92dac
+      internalID: 510743856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_15
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2670
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78ed81f4a511df44a2d4521d6cedd5c
+      internalID: 135452575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_16
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2670
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee6838a44133dd489d0fe465f136dbd
+      internalID: -1347152343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_17
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2670
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7f212a615f8914491bcef04cd012fe
+      internalID: -1139172089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_18
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2670
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee3e24f7db9e224bae7882e8bf220c2
+      internalID: -1918463644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_19
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2670
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607d6f4a5f7fd894ebe81c47784ac3f6
+      internalID: 648992330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_20
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 2670
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f44bfa26125cb429d65d69f46d2dab
+      internalID: 579108096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baa971389a6317489028c099273d056
+      internalID: -920682496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_22
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab2edb9c36fc7d4c9260342612f7e39
+      internalID: 1849049788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_23
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ed03246913ee24b83af76d5a40726e
+      internalID: -1192791117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_24
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f90d772cd715744fbedd0edededf7a1
+      internalID: -803003872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_25
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0521b5255ac09842babb4212ccca92a
+      internalID: 1024572019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_26
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675e730441427974fb508ee6e468e1a9
+      internalID: 397116023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_27
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fe29708317bd444b4c2cf5fa75777c
+      internalID: -306433286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077091b9bf0b5914ca856f36777b2aa0
+      internalID: 324326256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_29
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9f7b87c76807047ba709f22b108915
+      internalID: 222902580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_30
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ec0c2ebdc44c8448f296428cb0cacc
+      internalID: 1687334562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_31
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2d7f61d41507d41bf230663f26cdc4
+      internalID: -1771247304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_32
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c90d3214703ce46b4800c00095c1db
+      internalID: -975892284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_33
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3c66a86d5de1f469c558c4f130ebb5
+      internalID: 1384790542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_34
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db6b9ec2a1c1204db2df8dae4c36118
+      internalID: -1008647636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0e6da888ed437419d99c6af51eb09f
+      internalID: 123767047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_36
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecad0a083e1a3548974783e06159a5b
+      internalID: 1342382031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_37
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace187d28a1d0c6479b4a135bab51df9
+      internalID: -1296080934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_38
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82092e21b7879554087543d5ed019856
+      internalID: 1458182325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_39
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c679025b83eb142439ead7d2bc58ad15
+      internalID: -1017237264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_40
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0c3719f53b71645ae0538172dcbbde
+      internalID: 230093198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_41
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cb768f07dce8644837c16dcb1f0762
+      internalID: -246265135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0eee7fdf49cad44982d2003f70833f
+      internalID: -1991689178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_43
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa13ae314b61a448888b17a40a5a47a
+      internalID: -989702638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_44
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc5d6dd5367f6147835bf7e180f1f85
+      internalID: 130400322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_45
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208fa74560fd6f947990a6bad50eeb0f
+      internalID: 1661715298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_46
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438ad9ce5270f6b42855be33bed433a2
+      internalID: -644866520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_47
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254885c4697a5e742b5d116fb524e727
+      internalID: 1461872765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_48
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7a9dc86362c8741884e018c48c109e
+      internalID: 623331410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392f5d2a34acc8c4aabcb42b9b6a2ee0
+      internalID: 550995855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_50
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcec41178bd53543b4f3282cb3587de
+      internalID: -1344856683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_51
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6727fe64c6a7c408ad9f0fc057ae41
+      internalID: 797924402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_52
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dfa50ddfd1a5649b8b2152e9a4f67f
+      internalID: -92579790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_53
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a3dbac44337ad4c93f4564b3ee7c6e
+      internalID: -1231891551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_54
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942920955addc894486851271e75e729
+      internalID: -367845339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_55
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7173dcec278dc4aac686ffea808386
+      internalID: -1022663558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7852b52538c68469f4117e1ba5d768
+      internalID: -852270574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_57
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bf74165a77905499959bac1011d986
+      internalID: -885453851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_58
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1676332251825fd44bdea4815415eeab
+      internalID: 1278166521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_59
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87440ad7650390649aec67d40b04b0da
+      internalID: -1734786077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_60
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f53bf64429b9bb47b15969c04993eb3
+      internalID: 1443479255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_61
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f015590eed6c4469f034952a7ba92d
+      internalID: 25426831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyEnemyDemo_62
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50172e4c5dc863c47b0c251b310062a8
+      internalID: -1852346236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f8934d6816fd86d4eaea583735bf2933
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DestroyEnemyDemo_7: -1786938037
+      DestroyEnemyDemo_62: -1852346236
+      DestroyEnemyDemo_11: -1548772064
+      DestroyEnemyDemo_20: 579108096
+      DestroyEnemyDemo_16: -1347152343
+      DestroyEnemyDemo_39: -1017237264
+      DestroyEnemyDemo_48: 623331410
+      DestroyEnemyDemo_22: 1849049788
+      DestroyEnemyDemo_38: 1458182325
+      DestroyEnemyDemo_12: 1039898649
+      DestroyEnemyDemo_47: 1461872765
+      DestroyEnemyDemo_58: 1278166521
+      DestroyEnemyDemo_4: 2007927957
+      DestroyEnemyDemo_26: 397116023
+      DestroyEnemyDemo_43: -989702638
+      DestroyEnemyDemo_18: -1918463644
+      DestroyEnemyDemo_2: -1586207099
+      DestroyEnemyDemo_15: 135452575
+      DestroyEnemyDemo_40: 230093198
+      DestroyEnemyDemo_23: -1192791117
+      DestroyEnemyDemo_33: 1384790542
+      DestroyEnemyDemo_6: 1102206835
+      DestroyEnemyDemo_24: -803003872
+      DestroyEnemyDemo_35: 123767047
+      DestroyEnemyDemo_37: -1296080934
+      DestroyEnemyDemo_3: -1657158617
+      DestroyEnemyDemo_19: 648992330
+      DestroyEnemyDemo_28: 324326256
+      DestroyEnemyDemo_13: -146502743
+      DestroyEnemyDemo_59: -1734786077
+      DestroyEnemyDemo_32: -975892284
+      DestroyEnemyDemo_56: -852270574
+      DestroyEnemyDemo_42: -1991689178
+      DestroyEnemyDemo_31: -1771247304
+      DestroyEnemyDemo_9: 1316529183
+      DestroyEnemyDemo_30: 1687334562
+      DestroyEnemyDemo_51: 797924402
+      DestroyEnemyDemo_17: -1139172089
+      DestroyEnemyDemo_49: 550995855
+      DestroyEnemyDemo_50: -1344856683
+      DestroyEnemyDemo_53: -1231891551
+      DestroyEnemyDemo_29: 222902580
+      DestroyEnemyDemo_10: -1714689332
+      DestroyEnemyDemo_44: 130400322
+      DestroyEnemyDemo_34: -1008647636
+      DestroyEnemyDemo_36: 1342382031
+      DestroyEnemyDemo_0: 1901579893
+      DestroyEnemyDemo_45: 1661715298
+      DestroyEnemyDemo_57: -885453851
+      DestroyEnemyDemo_27: -306433286
+      DestroyEnemyDemo_8: -162314362
+      DestroyEnemyDemo_41: -246265135
+      DestroyEnemyDemo_14: 510743856
+      DestroyEnemyDemo_55: -1022663558
+      DestroyEnemyDemo_60: 1443479255
+      DestroyEnemyDemo_52: -92579790
+      DestroyEnemyDemo_61: 25426831
+      DestroyEnemyDemo_54: -367845339
+      DestroyEnemyDemo_1: 1089733775
+      DestroyEnemyDemo_21: -920682496
+      DestroyEnemyDemo_46: -644866520
+      DestroyEnemyDemo_5: 416267167
+      DestroyEnemyDemo_25: 1024572019
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

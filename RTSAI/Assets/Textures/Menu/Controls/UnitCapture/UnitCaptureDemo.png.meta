@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: a9fdc7f0bb52cbe49a5f36738c6d21eb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnitCaptureDemo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3560
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bae0bc5eac94924292976fac11f1eb2
+      internalID: -1762723104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_1
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3560
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e2991ebd49dba4c9fcb1122f68cc57
+      internalID: 818634109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_2
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 3560
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76333413d18d34f4391c5c4e3e94d2e0
+      internalID: 1395044282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_3
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 3560
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3595e66b878564148bd0f06afeeba8e2
+      internalID: -905407984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_4
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 3560
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313364aacbf191846b7ad0b1d245c1e3
+      internalID: 91743624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_5
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3560
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f2b2e720b39bd4b8fe4964e3d381f5
+      internalID: -1573689201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_6
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 3560
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c183f63e84208914d8f12496f37e3183
+      internalID: -1632973254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3115
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3041e59e4ea2b8d4fa29f87fec82ec90
+      internalID: -918278554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_8
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3115
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb30c1f37a0ba8e418fbebe63d7cc32f
+      internalID: -1620028682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_9
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 3115
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ea4e3e847c5e24ca23dbdbc9733596
+      internalID: 631544829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_10
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 3115
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb433a4a0f2620d4db58888a1aae1734
+      internalID: -1472552164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_11
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 3115
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dd7f833c5606d4fbf3dbd4f0863763
+      internalID: 1350233278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_12
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3115
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf0ebec8e46c5e4caf2030b43e39571
+      internalID: 146885891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_13
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 3115
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb37d83e25568a4ba36bbd188b122aa
+      internalID: 382902681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2670
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b328ab146a10c24bb75709a9cf8fd46
+      internalID: -692318206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_15
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2670
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f11bb8d1f8fa44b902ad0c2225b3a3
+      internalID: -1356848571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_16
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2670
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1df8e88b778c24f9ecbed0de37eb81
+      internalID: 1034350619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_17
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2670
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bd5365f73c06146a74c3e18f3f4d98
+      internalID: 837182606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_18
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2670
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d2e1b86292dfb47b6cc4601aa11455
+      internalID: 1531302136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_19
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2670
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2d33aeddeb72c48a6be6c3c74dd834
+      internalID: -104339328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_20
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 2670
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13121887679e5694ca3aed3011c3e20a
+      internalID: 1847713110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c82be26c4d6c914aae114b51de4284c
+      internalID: 550226145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_22
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c178529eac9cda43a4b85c1eb7664ff
+      internalID: -612736300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_23
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64ba072a21a86f42a7b9af4764c97d1
+      internalID: -2024529179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_24
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4462171d3f1d64a9e8544f5fcd3a3f
+      internalID: 1489326255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_25
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77714b74e0af7da47aaa210bd5c5e20c
+      internalID: -667347469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_26
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75162b82eb48c974b9eef7370b20a16b
+      internalID: -757608334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_27
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40177240f6c7d5541b63b233f0925700
+      internalID: 1454580441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ca20742cffc244ead0f11987d91ee9
+      internalID: 352819468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_29
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bd0b7bff002014d9e7ccc9d52c7e40
+      internalID: 92172256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_30
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdcd155a8a603a4ba81eeccab82f5c3
+      internalID: 463607248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_31
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b4386b11ec8124aa2fcfb2bea53548
+      internalID: -962070896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_32
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1f2c506e5fb1945b44b50a63c1ad12
+      internalID: 1241003670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_33
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c8d1965185b65448a9b08f0d25ce89
+      internalID: 1549496368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_34
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238342424d9eee74684f836fd5294ed0
+      internalID: 1418508829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1229d031594e34d8d0e50939e037ee
+      internalID: 1644951723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_36
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d19d1dfd5977174c936be64cdd7157e
+      internalID: -397258182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_37
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69c2d406708eaf4c924cd681adc0e24
+      internalID: -47867518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_38
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd180a75c855e145ad310f7be7552cc
+      internalID: -842978970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_39
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7367885a1b63780458bc3b8a0aae8b35
+      internalID: -1733618965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_40
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02cfab6afbc7f741918f8ecb447ebea
+      internalID: 742908453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_41
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ae1c68aa3c32e41955051da09a4909
+      internalID: -809745288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c0d5bb970f4e443a8dd317389e3d83
+      internalID: -1254472977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_43
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f80f8d1863621f4c94cc20334ea7790
+      internalID: 716058034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_44
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f5831d5396a8b46bd572ceaed62ef6
+      internalID: 735842402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_45
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a4cf121b91d4a4e857ec728e96a2a7
+      internalID: -812039220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_46
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fabc85048bc9d4c8399b69b101c990
+      internalID: 1874427134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_47
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d5415c295314c4f8ad4bf453f8a353
+      internalID: 240552728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_48
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ee4327b38cc924ba23b8c856a8cd2b
+      internalID: -735492155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de362ee34e7077c43aa4df73e104ae7e
+      internalID: -5307460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_50
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcb25b4620f9fe43b198741bb4aebc2
+      internalID: -202707990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_51
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6402946dd86805a40b334ab5e8f3e38f
+      internalID: 1387096869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_52
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ad3fe7d843ba949abe4ab2630d21c0
+      internalID: 1471010375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_53
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daca41ba78d465642988e0380990c0f1
+      internalID: 18071556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_54
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611a9e158e05d6f48b2498f7bf4ba727
+      internalID: 1220864501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_55
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec43a9995ff0d64a855cc68bc522ce9
+      internalID: -116791704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4f413fe2f325a40bb74ad66d022044
+      internalID: 907052177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_57
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4746a6dad9e065545b31690070dbe88b
+      internalID: 1490559703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_58
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55898be121ef5874a9e0d3d725f80e36
+      internalID: 1052097035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_59
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6251c1e5e2280a42b2b6ba225a65938
+      internalID: 85931527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_60
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d094267d8d145f4d9e3a993866cc854
+      internalID: -1513932982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_61
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5246ea8ea34a7b446965da64eb135b45
+      internalID: 530368971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitCaptureDemo_62
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2545dea2955fdf34a80bb9748e3c1a6d
+      internalID: -37628591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 27fce30b01dee014f996d694a5cfb162
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UnitCaptureDemo_59: 85931527
+      UnitCaptureDemo_35: 1644951723
+      UnitCaptureDemo_45: -812039220
+      UnitCaptureDemo_53: 18071556
+      UnitCaptureDemo_48: -735492155
+      UnitCaptureDemo_56: 907052177
+      UnitCaptureDemo_58: 1052097035
+      UnitCaptureDemo_60: -1513932982
+      UnitCaptureDemo_2: 1395044282
+      UnitCaptureDemo_31: -962070896
+      UnitCaptureDemo_33: 1549496368
+      UnitCaptureDemo_5: -1573689201
+      UnitCaptureDemo_36: -397258182
+      UnitCaptureDemo_22: -612736300
+      UnitCaptureDemo_40: 742908453
+      UnitCaptureDemo_21: 550226145
+      UnitCaptureDemo_62: -37628591
+      UnitCaptureDemo_28: 352819468
+      UnitCaptureDemo_25: -667347469
+      UnitCaptureDemo_39: -1733618965
+      UnitCaptureDemo_4: 91743624
+      UnitCaptureDemo_0: -1762723104
+      UnitCaptureDemo_30: 463607248
+      UnitCaptureDemo_9: 631544829
+      UnitCaptureDemo_37: -47867518
+      UnitCaptureDemo_54: 1220864501
+      UnitCaptureDemo_17: 837182606
+      UnitCaptureDemo_41: -809745288
+      UnitCaptureDemo_51: 1387096869
+      UnitCaptureDemo_26: -757608334
+      UnitCaptureDemo_50: -202707990
+      UnitCaptureDemo_38: -842978970
+      UnitCaptureDemo_34: 1418508829
+      UnitCaptureDemo_32: 1241003670
+      UnitCaptureDemo_49: -5307460
+      UnitCaptureDemo_20: 1847713110
+      UnitCaptureDemo_12: 146885891
+      UnitCaptureDemo_3: -905407984
+      UnitCaptureDemo_23: -2024529179
+      UnitCaptureDemo_24: 1489326255
+      UnitCaptureDemo_14: -692318206
+      UnitCaptureDemo_46: 1874427134
+      UnitCaptureDemo_55: -116791704
+      UnitCaptureDemo_13: 382902681
+      UnitCaptureDemo_43: 716058034
+      UnitCaptureDemo_52: 1471010375
+      UnitCaptureDemo_29: 92172256
+      UnitCaptureDemo_42: -1254472977
+      UnitCaptureDemo_6: -1632973254
+      UnitCaptureDemo_18: 1531302136
+      UnitCaptureDemo_61: 530368971
+      UnitCaptureDemo_1: 818634109
+      UnitCaptureDemo_57: 1490559703
+      UnitCaptureDemo_19: -104339328
+      UnitCaptureDemo_8: -1620028682
+      UnitCaptureDemo_10: -1472552164
+      UnitCaptureDemo_16: 1034350619
+      UnitCaptureDemo_15: -1356848571
+      UnitCaptureDemo_7: -918278554
+      UnitCaptureDemo_27: 1454580441
+      UnitCaptureDemo_44: 735842402
+      UnitCaptureDemo_47: 240552728
+      UnitCaptureDemo_11: 1350233278
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

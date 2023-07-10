@@ -1,0 +1,1046 @@
+fileFormatVersion: 2
+guid: c823b59ec444f9547a5f42beacd79df8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MinimapMovementDemo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6625d949aba94c439dc6447ac0cb074
+      internalID: 1188127027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_1
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbcacd9e78fd364b926b11318d6b12a
+      internalID: -26562470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_2
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbab4ed95c5d3e4da6c13b1261d4e43
+      internalID: -1381585687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_3
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c59e828da47e44abbf89e17a75e0fb
+      internalID: 1352013565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_4
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf65de1e5784b941924818826475d0e
+      internalID: 236298013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_5
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb1b765cc0814f44ba01ea567442ac0
+      internalID: -1216992642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_6
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 2225
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051c8c57a219a0747afb0a1b0308d551
+      internalID: 657037793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa14e3a2ab7dddb4d8e4023d4a3e842a
+      internalID: 1935837900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_8
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159e5debceeb1eb4795c63e94e99f091
+      internalID: -48200634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_9
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec74b8487246ec4396310a88f50831f
+      internalID: -502557416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_10
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b505b91c195e6648b8273e702b7439a
+      internalID: -1801676608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_11
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8a8dc37a2f7b84389ae6dc873323b1
+      internalID: -90621793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_12
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0040d6879fc6c479509a23927c18b6
+      internalID: 942774283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_13
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ee5215074640d4cb5e785593d8da60
+      internalID: -1774053682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1f944fed2fc4f45a76b4fd49e41366
+      internalID: 1283947498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_15
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4534989a68cde0e44ac5ee92c3ed7729
+      internalID: 454626906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_16
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8890355ae43214f972aabd36b7cff4
+      internalID: 1948629138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_17
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97771ec544845ff4c80cc0d40ff3b705
+      internalID: 1163624349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_18
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b83b834e61a71a4cb71d49d081b0436
+      internalID: 1008412835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_19
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c24ce5f6d3c8ec4b801285a96d9efe0
+      internalID: -1259377858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_20
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31c4c25b6755714eae158f55d9cd61d
+      internalID: -438742207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b885ae02348a7e4c8b108bc9c88ef2c
+      internalID: -1650025505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_22
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555775a6add6e5049bb41aca260daae3
+      internalID: -112016548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_23
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733c9ab6c7023ec4b81f16455b709724
+      internalID: 605036149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_24
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1616ea1da7a902f4e922dcda9e73265f
+      internalID: -391109672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_25
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8da9c3124ddf54eac07ad67267a6e2
+      internalID: -1790515683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_26
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a6f523b27ca8643a071ef648858299
+      internalID: -1555414413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_27
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c49f238819a026438c78fb67083b340
+      internalID: -1433487177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92df203e1363d084faeff493b77d8e2b
+      internalID: 1686138948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_29
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d0e6cb5add088498b7a8958add92ff
+      internalID: 1412349897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_30
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffda4ff98ec36cc4ca2473e11459b856
+      internalID: -1187856490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_31
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85995657b738f2459ca954f0ef311fd
+      internalID: 244518109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_32
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6253c1e48a6a9b3409428cb2a9a627dd
+      internalID: -792854244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_33
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0707abf31532612488354950b33e4297
+      internalID: 1423678106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_34
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8658221bfa1e14bab4a291f2215ee5
+      internalID: -2035237444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92ac4fd1a4fbf44f84a362f283972a7
+      internalID: -1870141594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_36
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e663af6583646d841b3c7ed469385347
+      internalID: 60701741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_37
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cc2d961289b9a47ab730ec849dc77c
+      internalID: -1927122150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_38
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9530bb7da323642b204d9fb1083626
+      internalID: -686693193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_39
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e989e1f86d4380246a729d957118b47c
+      internalID: 1230434985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_40
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830be7df1581159469924a3ba757b91e
+      internalID: 1970373245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinimapMovementDemo_41
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa708f28fef410049995633fe1f0714a
+      internalID: 596227630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3c3592f12039e544792e773cf6a87b5b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MinimapMovementDemo_32: -792854244
+      MinimapMovementDemo_38: -686693193
+      MinimapMovementDemo_36: 60701741
+      MinimapMovementDemo_10: -1801676608
+      MinimapMovementDemo_16: 1948629138
+      MinimapMovementDemo_31: 244518109
+      MinimapMovementDemo_7: 1935837900
+      MinimapMovementDemo_15: 454626906
+      MinimapMovementDemo_21: -1650025505
+      MinimapMovementDemo_33: 1423678106
+      MinimapMovementDemo_27: -1433487177
+      MinimapMovementDemo_22: -112016548
+      MinimapMovementDemo_2: -1381585687
+      MinimapMovementDemo_9: -502557416
+      MinimapMovementDemo_4: 236298013
+      MinimapMovementDemo_20: -438742207
+      MinimapMovementDemo_28: 1686138948
+      MinimapMovementDemo_18: 1008412835
+      MinimapMovementDemo_23: 605036149
+      MinimapMovementDemo_40: 1970373245
+      MinimapMovementDemo_0: 1188127027
+      MinimapMovementDemo_30: -1187856490
+      MinimapMovementDemo_29: 1412349897
+      MinimapMovementDemo_35: -1870141594
+      MinimapMovementDemo_24: -391109672
+      MinimapMovementDemo_34: -2035237444
+      MinimapMovementDemo_37: -1927122150
+      MinimapMovementDemo_14: 1283947498
+      MinimapMovementDemo_6: 657037793
+      MinimapMovementDemo_11: -90621793
+      MinimapMovementDemo_17: 1163624349
+      MinimapMovementDemo_25: -1790515683
+      MinimapMovementDemo_13: -1774053682
+      MinimapMovementDemo_1: -26562470
+      MinimapMovementDemo_3: 1352013565
+      MinimapMovementDemo_12: 942774283
+      MinimapMovementDemo_39: 1230434985
+      MinimapMovementDemo_8: -48200634
+      MinimapMovementDemo_26: -1555414413
+      MinimapMovementDemo_5: -1216992642
+      MinimapMovementDemo_19: -1259377858
+      MinimapMovementDemo_41: 596227630
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

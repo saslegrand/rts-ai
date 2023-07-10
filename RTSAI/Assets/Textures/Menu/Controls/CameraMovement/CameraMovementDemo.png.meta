@@ -1,0 +1,892 @@
+fileFormatVersion: 2
+guid: a222d1f487054724fbb66f195ce4e3ab
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CameraMovementDemo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d492bee65472d4db14e0aa774f2ff3
+      internalID: -171935813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_1
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1279225646eb15c4ab1d6ab84022fe19
+      internalID: -821166137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_2
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e7a0a0cac09ba4a9e08477ad1d5b2c
+      internalID: -812981617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_3
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8595ec1b6b0e3a419465281b0037c57
+      internalID: 1637238105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_4
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc3551c8cc88084f94b32a83c46fb53
+      internalID: 1232151070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_5
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0be2b999e1f4a741b1a709b7b578933
+      internalID: 1562659533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_6
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 1780
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7457927dbba13bb4da68c9cb43af2ceb
+      internalID: 832157597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11894ec7be86f6b4c91c46d478d4dcb9
+      internalID: -381408835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_8
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be629f7faa66434e8ada7e25d9df55f
+      internalID: 972017044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_9
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ec3fee7b207114399c0e743ca0636d
+      internalID: -396269376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_10
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e4360f886aa2d43a9d7e18ebe568de
+      internalID: -738840955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_11
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8507a899b75b9654d82e7f06072ec6c1
+      internalID: -1938938286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_12
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0679c9aae00f24aa1eb40fc0e898dd
+      internalID: -809863975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_13
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 1335
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7272d08bcc741ea4382ac6a2400c3025
+      internalID: 1483277484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5ca557bcb73f147aeefa1ce5dedf77
+      internalID: 1646942164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_15
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960ff9fb81597fe47b31ca10e5941c9e
+      internalID: -1169512040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_16
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b622758fab08a154082d8ac5347be30b
+      internalID: 1868531422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_17
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9c459ec91c4684c88bd3b60342d4e3
+      internalID: -467468089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_18
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336b3d134c43d614cb44116b2bfdfb3c
+      internalID: -259735491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_19
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723c090a22d3a114b9713a52f1529d01
+      internalID: -189958887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_20
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 890
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0b48403aae0fc43984cfa1661cb58d
+      internalID: 125148115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c449cf388d79a419e268c7c540edd9
+      internalID: -1656994506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_22
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3caf2b1470818648be5a289de92d697
+      internalID: -1465223917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_23
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd4601ff5f7a1b4085315fb27c6e6fe
+      internalID: 1676664600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_24
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6ef19c8b2e0034ea9ab105b37ebf24
+      internalID: -2037119433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_25
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf36d252ec12ef4e9639c908dd26952
+      internalID: -1632905093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_26
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953796100b2064846a17eed1c3ecf9ed
+      internalID: -1233815657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_27
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 445
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4daeeede3448a54e9a4799e1587e1c6
+      internalID: -230519867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56dc7b279d019141934ae9fdf4fbc01
+      internalID: 486889048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_29
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d267734d5ccec0845bf960e78f04afd4
+      internalID: 405299565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_30
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e4058ed8284ac46b0707a00efa5b43
+      internalID: -393074919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_31
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eb29b86aa3b6c4aabee7c3e7bd059b
+      internalID: 1080519047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_32
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd9526d4cec445409fa21abfe3aa05b
+      internalID: 1577212130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_33
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073d081219b8a7f4da216ee48c96bf23
+      internalID: -1437969592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraMovementDemo_34
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 0
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5b33b87942b384f8939fbdec393850
+      internalID: -712096237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d666bf06d8588b648b5233904379d93b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CameraMovementDemo_27: -230519867
+      CameraMovementDemo_30: -393074919
+      CameraMovementDemo_1: -821166137
+      CameraMovementDemo_3: 1637238105
+      CameraMovementDemo_8: 972017044
+      CameraMovementDemo_15: -1169512040
+      CameraMovementDemo_32: 1577212130
+      CameraMovementDemo_20: 125148115
+      CameraMovementDemo_31: 1080519047
+      CameraMovementDemo_19: -189958887
+      CameraMovementDemo_2: -812981617
+      CameraMovementDemo_14: 1646942164
+      CameraMovementDemo_18: -259735491
+      CameraMovementDemo_33: -1437969592
+      CameraMovementDemo_34: -712096237
+      CameraMovementDemo_26: -1233815657
+      CameraMovementDemo_13: 1483277484
+      CameraMovementDemo_25: -1632905093
+      CameraMovementDemo_21: -1656994506
+      CameraMovementDemo_29: 405299565
+      CameraMovementDemo_4: 1232151070
+      CameraMovementDemo_12: -809863975
+      CameraMovementDemo_24: -2037119433
+      CameraMovementDemo_6: 832157597
+      CameraMovementDemo_0: -171935813
+      CameraMovementDemo_7: -381408835
+      CameraMovementDemo_16: 1868531422
+      CameraMovementDemo_10: -738840955
+      CameraMovementDemo_22: -1465223917
+      CameraMovementDemo_23: 1676664600
+      CameraMovementDemo_28: 486889048
+      CameraMovementDemo_9: -396269376
+      CameraMovementDemo_17: -467468089
+      CameraMovementDemo_11: -1938938286
+      CameraMovementDemo_5: 1562659533
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

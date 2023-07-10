@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70c53fdf09515d64d9c0162b6d69219c, type: 3}
+  m_Name: Heavy_Distance_Data
+  m_EditorClassIdentifier: 
+  TypeId: 5
+  Caption: Mounted Mage
+  Cost: 5
+  BuildDuration: 6
+  Thumbnail: {fileID: 21300000, guid: 8b40579dd9f6e664d91dcbd89de0f6fb, type: 3}
+  MaxHP: 120
+  DPS: 40
+  AttackFrequency: 3
+  AttackDistanceMax: 15
+  CaptureDistanceMax: 10
+  CaptureDistanceRange: 30
+  CanRepair: 0
+  RPS: 10
+  RepairFrequency: 1
+  RepairDistanceMax: 10
+  RepairDistanceRange: 20
+  Speed: 14.3
+  AngularSpeed: 300
+  Acceleration: 12
+  IsFlying: 0
+  FormationOrder: 2
+  FormationRadius: 6
+  BulletPrefab: {fileID: 6953520636668906323, guid: 99fb79db4e0a60441b86bfee63b1eddc,
+    type: 3}
+  DeathFXPrefab: {fileID: 1742013225946848, guid: b3d8264aa7d2d824a8a503e45291ddf4,
+    type: 3}
+  Influence: 12
+  InfluenceRadius: 6
