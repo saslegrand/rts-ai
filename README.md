@@ -6,8 +6,7 @@ In this RTS game, you are playing against an AI that is programmed to find the b
 
 <br>
 
-## Protfolios
----
+## Portfolios
 
 ### Global project Link
 **-->** [**Project**](https://sasha-legrand.itch.io/ritsai)
